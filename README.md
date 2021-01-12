@@ -43,7 +43,7 @@ mutation {
       lastname: "Daralola",
       nickname: "Gelgit",
       email: "michaeldaralola123@gmail.com",
-      password: "Nokiaphone@53"
+      password: "hackme"
     }
   ) {
     id
